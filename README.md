@@ -24,7 +24,7 @@ A full-stack web application with a React frontend and Node.js/Express backend, 
 ## Prerequisites
 
 Before you begin, ensure you have the following installed:
-- Node.js (v14 or higher)
+- Node.js (v20 or higher)
 - npm (v6 or higher)
 - MongoDB (v4.4 or higher)
 - Git
@@ -127,14 +127,3 @@ Before you begin, ensure you have the following installed:
 4. Service Worker handles offline capabilities
 5. PWA features provide native-like experience
 
-## Contributing
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details. 
